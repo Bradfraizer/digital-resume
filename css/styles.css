@@ -11,7 +11,7 @@ body {
 .jumbotron-img {
   background-image: url("../img/wood-floor.jpg");
   background-size: cover;
-  height: 80vh;
+  height: 95vh;
   position: ;
 }
 
@@ -19,7 +19,7 @@ body {
   font-family: 'Shrikhand', cursive;
   font-size: 60px;
   color: #fff;
-  margin-top: 10vh;
+  margin-top: 15vh;
   margin-bottom: 10vh;
 }
 
