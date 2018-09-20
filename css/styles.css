@@ -1,0 +1,63 @@
+body {
+  background-color: #000;
+}
+
+@media only screen and (max-width:1000px) and (min-width:700px) {
+  #header-top {
+    min-height: 100px;
+  }
+}
+
+.jumbotron-img {
+  background-image: url("../img/wood-floor.jpg");
+  background-size: cover;
+  height: 80vh;
+  position: ;
+}
+
+.banner h1 {
+  font-family: 'Shrikhand', cursive;
+  font-size: 60px;
+  color: #fff;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+}
+
+.banner p {
+  font-family: 'Shrikhand', cursive;
+  font-size: 40px;
+  color: #fff;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+.contact-icon {
+  margin-top: 2vh;
+  font-size: 15vh;
+  color: #000;
+}
+
+.intro {
+  font-family: 'Shrikhand', cursive;
+  font-size: 60px;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 60px;
+}
+
+.job {
+  font-size: 30px;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 75px;
+}
+
+strong {
+  color: #804000;
+}
+
+.details {
+  font-size: 20px;
+  color: #fff;
+  margin-bottom: 75px;
+}
